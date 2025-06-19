@@ -10,4 +10,8 @@
 
 *MENTOR*: NEELA SANTOSH KUMAR
 
+##OUTPUT TASK1:-
+
+![Image](https://github.com/user-attachments/assets/0d995654-4062-48de-b168-1d604de3cc39)
+
 
